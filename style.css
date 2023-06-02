@@ -46,7 +46,7 @@ body {
     }  */
 
     100%{
-        background-position-x: 1000px;
+        background-position-x: -1000px;
     }  
          0% {
              background-position-y: 0px;
